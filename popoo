@@ -1,2 +1,132 @@
---[[ obfuscated @ discord.gg/25ms ]]
-return(function(...)local t=setmetatable local S,j=t({aQ=function()end},{__concat=function(x,i)x.aQ=i end,__mul=function(x,i)return x.aQ end}),t({u_={`/avWViM=`,`T5M02zH=`,`3UQuK44=`,`KOH=`,`MWrCfuQ=`,`f8o2k8==`,`Jhth`,`CHP+`,`e42vCLW=`,`Lsd1zl==`,`EWnj+iM=`,`ll5CdRW=`,`vE8hu7+=`,`OUAo`,`kEB1`,`dZ6/lL8=`,`5hl9`,`ZUGW2H+=`,`6K/rxYG=`,`kZwRgHW=`,`DzoqpsM=`,`05e+Vg5=`,`BYX5`,`5w/ZUph=`,`sIlSDQ==`,`SpamSfW=`,`NK4G+l==`,`oQ==`,`AU7jwe+=`,`wQBH`,`bWNQrl==`,`hB==`,`neYAaB==`,`TqyES1V=`,`V5Bk`,`tMY1KzQ=`,`RB==`,`ehymuLQ=`,`6U0pjDQ=`,`J/Joe8==`,`QxtlvgV=`,`GTeCPNH=`,`hQ==`,`6CpEl78=`,`26B+`,`UGf9yMR=`,`XtgZHx+=`,`2B==`,`1fsjusM=`,`SywaGx4=`,`88==`,`p7YG9l==`,`l4LHcl==`,`wWTjlQ==`,`I83T1y+=`,`N8==`,`Ut2PSpAG`,`j6uFWPH=`,`dhceVMl=`,`bus0whB=`,`F9vsXZM=`,`zibTWv8=`,`BHtEcsR=`,`GRCQ`,`kk5x`,`pXS5xVW=`,`AGxSVB==`,`7f7jJNM=`,`x02aDIs=`,`gwJ/gl==`,`YNs=`,`97yU`,`lrp8ml==`,`WF0/YHh=`,`Vl4=`,`vkRFjCM=`,`8HR=`,`wh6pSJ4=`,`XCpHAHG=`,`oaG+dl==`,`ff1jWz+=`,`cfB=`,`DgiqJ+R=`,`a1sC`,`9ArQVxV=`,`OLslafB=`,`E4d/0CM=`,`tCPdcVs=`,`rnO2`,`/B==`,`bzU7InG=`,`TrUF3mM=`,`mgh=`,`NrCz3cs=`,`u4y06E+=`,`YvPBHQH=`,`2WuUWU+=`,`HMKPG+G=`,`kO7Qky7=`,`aYUK8Bh=`,`AG+T+jH=`,`DGa9NSH=`,`XoqD3JW=`,`czR5Zb+=`,`mB9cz8==`,`dmrsSm5=`,`fRi+P35=`,`RJVt`,`g2H5+BV=`,`LhdXb2Q=`,`pOsHCyH=`,`U8VZ3YM=`,`EaxSMQ==`,`LO+8LTR=`,`zMRGu6l=`,`2Q==`,`kCqLw0l=`,`j8sAD7B=`,`oLWideQ=`,`/kuuDrV=`,`QO1z+9W=`,`6yME`,`T2a1UTB=`,`mQ==`,`xSX+ik8=`,`5wKMSTLZWfFJ+k3svpU2iwAMjkaZvorNUTe25w4lRghx+kLJWwKZUoH=`,`hus=`,`Edq5Eks=`,`6yyB3tl=`,`3B==`,`RJV2`,`64l93gV=`,`ZS76SNM=`,`oFCQefR=`,`jO5=`,`mjnHff8=`,`159n`,`1CQYNWR=`,`dG4cU8==`,`RjrWlm5=`,`PiAkhBR=`,`xEELvZ4=`,`FepZwV5=`,`IAk+gM8=`,`Ymuhyp5=`,`Fbf0OQ==`,`A5xFkrR=`,`ipKZ`,`uQ==`,`d/wB`,`jJ9BVLG=`,`pEoH4Q==`,`yl==`,`Xe1t3xB=`,`OJhL+8==`,`yQ1ibB==`,`Ka9TeH5=`,`QRhazQM=`,`TiI/ZCB=`,`Snl=`,`fVdFOr4=`,`627=`,`ebI5WGG=`,`zIOj`,`3C7svus=`,`mRXA`,`DRtPC7H=`,`nPG+kx+=`,`M4R54Is=`,`14E2qcH=`,`wE34hJB=`,`WCqA4B==`,`qH4c`,`qqbGyzh=`,`ouxER/W=`,`ATNrtl==`,`UTl=`,`EjB8Fl==`,`dMmzYjs=`,`fgHV/C+=`,`9ZBYU3H=`,`AUQ=`,`5wK1ic+=`,`SC1JZ9l=`,`uRh=`,`nLQmMBG=`,`p7i7Ssl=`,`YExk02h=`,`gD2t9Q==`,`esh=`,`+Yyb7ms=`,`RAPV2IR=`,`/KkPcAs=`,`Gul=`,`vZBp`,`mljSskR=`,`Hz4AG5B=`,`vLGL`,`WTnYqyB=`,`2Bqb`,`qEpFs94=`,`5lC5Ln7=`,`ooWEmK7=`,`yb3PlrH=`,`Eis6Id+=`,`ts9cFj+=`,`fn8w7Dh=`,`UWKtIJs=`,`v2Q3Nwh=`,`1mEJ`,`J5VITWG=`,`1wJrSl==`,`2tpyoB==`,`o/qAFY+=`,`LJGlejG=`,`Bl==`,`LuUBpzQ=`,`Il==`,`gD+f+4M=`,`7gfIwoV=`,`V2+w`,`QX1YEBM=`,`Z+E/`,`VW1IBfB=`,`2naSLwV=`,`0oFddMs=`,`NpI3XKs=`,`nb8IvS7=`,`gZGJpJh=`,`o8M=`,`Jxdl3Ps=`,`lzkHWgM=`,`8nDdzQ==`,`05tHgW+=`,`qNYuwj+=`,`HR5lMV4=`,`ipaPUfAM5wrZUQ==`,`9Doub9M=`,`kd/UkOQ=`,`GBJi7a+=`,`S7NqfB==`,`LiPSoQ8=`,`WSh=`,`M4AZbSB=`,`VQQSGW+=`,`jkCq`,`KtM=`,`+qrMUB==`,`ee1SkG4=`,`vHYxIp+=`,`PmE9ZVG=`,`eSBaiqG=`,`mLM7dnR=`,`xSxEOQ==`,`mW8/kk4=`,`+taZ+t/M`,`nceRKs4=`,`SkCQ+kAD`,`6KnRU57=`,`fof0`,`d5Z35oR=`,`UTeC+l==`,`P8==`,`8QKjoQ7=`,`tT8IuQ==`,`v8==`,`iJL2eHKMSVs356AW5cW=`,`FobHDRh=`,`oHeLqll=`,`y03Z`,`vvX6sB==`,`GfX1TbB=`,`VUucqUM=`,`hF9mOrl=`,`cDV=`,`j+38Az+=`,`355WH/G=`,`y+MZF+h=`,`3/itFFQ=`,`RAOGj4V=`,`zjy65b+=`,`5S2rofV=`,`R86T5b5=`,`DulV9Wl=`,`SAf1Tl==`,`5PqV`,`suojFKV=`,`xtMy`,`1rAfTQ==`,`tn9P`,`LQ==`,`90wCius=`,`NVbP5Q==`,`VIhvBB==`,`1SIpDHV=`,`Rx4=`,`tmSVvJV=`,`+yyFYnV=`,`BwKVlyl=`,`m7Xv18==`,`Z5v712W=`,`1TmB`,`z2GYP8Q=`,`7WCx`,`xEdLljG=`,`ywIYal==`,`SDSWryl=`,`1b8uoD4=`,`2V9mB+V=`,`d5tHAl==`,`S8oDbmB=`,`sSJWxn5=`,`IrNPGzH=`,`giq3SGM=`,`OKbjhD5=`,`z5wyGNB=`,`6M5qBg8=`,`vktElhH=`,`fjftlt+=`,`hKglqgh=`,`OdnU+l==`,`ScLISpV=`,`3tYmOKB=`,`9nkQ1g4=`,`g74=`,`P0aVi55=`,`m59WqlW=`,`Xd5yL1Q=`,`9qWexbM=`,`sDKv88==`,`VnyBgQ==`,`Tetc`,`ZIM=`,`6/nB`,`37wYnIM=`,`b/7fP0H=`,`D3o8Zh8=`,`F9mLCU5=`,`Qn5=`,`OMDbZYh=`,`kqNB`,`EQO78A7=`,`ziqLf+V=`,`tCYlvA5=`,`PTcL`,`ClYDIT4=`,`5wB96VW=`,`IGsnIl==`,`st6T2vB=`,`d/hbF7M=`,`t4qj6cG=`,`Qnsy9LQ=`,`cnVP+Z5=`,`tglYjbW=`,`RhC4eXB=`,`owJoOY7=`,`Ql==`,`5B==`,`y8kOUgM=`,`RigFb65=`,`gavqxHM=`,`ZlXG`,`VQ==`,`5kCpp7h=`,`4gIzPQ==`,`+7V=`,`9P5GhPV=`,`Kl5lsGV=`,`jrMk`,`7SVd6bl=`,`9bx2ol==`,`swB/+Vh=`,`fsA2X7s=`,`KexEXD7=`,`1eKOBAH=`,`+69OGIl=`,`YsmJ`,`LkH=`,`/F3+wjM=`,`pRZSVl==`,`WVZj3l==`,`4BQmYxR=`,`/GX+H5+=`,`y0zxMDs=`,`8AvqMQ==`,`ZMWKQFs=`,`W9AW`,`vpzqNl==`,`vXrq`,`E5L6`,`27QgGIl=`,`6jkXvJG=`,`+mry2l==`,`1RLI`,`06umjqH=`,`ww0z`,`F96y`,`PBEiG9R=`,`nqSk+HH=`,`HcOY`,`EWFKAQ+=`,`OiJk7mQ=`,`ipaPU8==`,`ENQ=`,`6B==`,`OEYN`,`RsHMNiW=`,`rUay6a5=`,`bQ==`,`uaAKfD+=`,`/VB=`,`tMKgF6+=`,`gKG=`,`+O8Z79B=`,`gpI9c9+=`,`7B==`,`eFBcUAH=`,`0YNLdl==`,`KB==`,`1cBzqe5=`,`gws3jw3yz7/qk/rt`,`QEQBjI7=`,`jCX0VK7=`,`xasYT9R=`,`bZ4k`,`WJFp4OQ=`,`oiNw88==`,`gH4as8H=`,`E1mTMaG=`,`fyuDuj7=`,`Pynz`,`GgWtn37=`,`f36TP94=`,`B7KhA8==`,`UX5kGdR=`,`uGV=`,`BaOV`,`yJwN84W=`,`09CtmfQ=`,`Bp32iwVbifKPSB==`,`9hB=`,`DoWOav4=`,`sUARXHs=`,`S8==`,`WDSh5E+=`,`2nfeFRs=`,`emX6DGs=`,`/r8mdxl=`,`iwQ/58s=`,`k4Sj2B==`,`ShsXM3s=`,`Jw4eBmh=`,`AGlDe7V=`,`PXR0BKH=`,`eqdvt8==`,`pPks7ns=`,`q/96Kzh=`,`CVo5ya4=`,`hpM=`,`JVSg`,`ywlyLe5=`,`zS/wLb7=`,`xBMUZa7=`,`Cx34xgB=`,`ps6zZQW=`,`7jMPiB==`,`GaB=`,`i7nsBE5=`,`Sgk/`,`IsOp`,`1c13a8==`,`e1BH60+=`,`2ESJeMB=`,`fXZAoPV=`,`cGv4`,`z6lmRl==`,`3kZzByl=`,`b49mu2G=`,`btwBZe7=`,`7Q==`,`tl0QvTh=`,`OhR5D+4=`,`UsB=`,`SXn0`,`xqq128==`,`4UPA`,`UlRidEQ=`,`9nP+s5s=`,`q+RI8cV=`,`KGo1SA8=`,`skOyssh=`,`1VDA`,`xLjM`,`Zh76hl==`,`hwfjnUh=`,`ntajpB==`,`sSTKK6+=`,`0k4nEEB=`,`zFx+mM4=`,`3kQBUQ==`,`rao6n6M=`,`mYtogQ==`,`hFEV`,`/PEA`,`o8==`,`YkPHwDG=`,`Iub7wS+=`,`E13Gd8+=`,`9GKy7LV=`,`NB==`,`I7ix`,`+Q==`,`zxlrUoGIzl==`,`3WXCY35=`,`Yf5=`,`dv2XPB7=`,`SLBf3C8=`,`ydG=`,`bNwSWo8=`,`izmXwB==`,`no1RSUV=`,`fZtr9NV=`,`d6RFg3l=`,`2i5tcB==`,`HooBY4V=`,`Avl=`,`3XrzpQ==`,`mij+X9G=`,`WB==`,`hIhuSuQ=`,`AjAGk8==`,`58M14TB=`,`r0Zj278=`,`mJZ06hQ=`,`38==`,`zr/u695=`,`3Lzk6gl=`,`0r6P/Q==`,`oUGFSM4=`,`7Z4qOys=`,`nVH=`,`PhO718==`,`aCGxo9M=`,`YZyFwnV=`,`5NYqsVQ=`,`A/0/7gR=`,`oM7rTNH=`,`fWAG`,`APuVB8==`,`bp/HNIQ=`,`9bh=`,`fA1BcmB=`,`D+JSb3W=`,`hVgJwBR=`,`3Vmtwf+=`,`68lGxTh=`,`QmHdWy8=`,`pnPWkW5=`,`WGbvgiG=`,`ZhblNtW=`,`DuU2HIG=`,`r2rQ5sQ=`,`IQ==`,`IeUMGTG=`,`rABCE3V=`,`G+4=`,`eB==`,`y2SkMjR=`,`7J6O83M=`,`kGOrPTs=`,`uCgO7l==`,`e+J+KDB=`,`qyiLtNH=`,`4fTbKJl=`,`XFA1nQ==`,`79ZmMl==`,`/lfQ9Qh=`,`uC3kBwH=`,`B2TqmHR=`,`doEODg4=`,`QsBtlRQ=`,`/iEbBTM=`,`CLO/1sQ=`,`w5Q=`,`yLUty8R=`,`iputUah=`,`7pXP9RM=`,`uk5=`,`PQ==`,`mrq6`,`qwMTfQ==`,`Z0GAbgM=`,`kgJQoS5=`,`ftG=`,`Epmj`,`3F+wiRh=`,`78iTql==`,`yGAYql==`,`iq3aFDW=`,`EFr4f8==`,`a6Ca9DW=`,`ggF1UkacWp7lipaMWB==`,`ABIazKQ=`,`RqL+Y/ARKfGCYrUXAmR=`,`OU+NtGH=`,`4DAJxlG=`,`DXjYeB==`,`YW6eEx5=`,`IK9RN4B=`,`J4Qa`,`flfyPV4=`,`OSvbt/R=`,`EK8=`,`7clztrs=`,`m32kKTR=`,`GcREBQ==`,`Y8CIDp7=`,`9w/gsv8=`,`mi0a3OB=`,`ktFL48Q=`,`OkfR2fQ=`,`2iuk2zQ=`,`8RsyUB==`,`Uw3bicW=`,`pWcOF6W=`,`Ef1qnqs=`,`/T2fvi4=`,`ewW=`,`JnMJQJ7=`,`VfwYiO4=`,`8cLv`,`DhG3ajR=`,`RmV3z6B=`,`wXDt+b4=`,`ZaQP6Ll=`,`ZEmOjmQ=`,`L6/hnZR=`,`VXQc`,`GkiT`,`kvcRrHW=`,`oO12YQV=`,`vUZIQ48=`,`dyG=`,`5w/ZUpa1`,`v7HtImH=`,`0B==`,`1lihiT+=`,`JLZi`,`2bNDXl==`,`YQXiZT8=`,`qYVLl97=`,`FjWOv8==`,`qoUiDl5=`,`emG4HhM=`,`pahIzbB=`,`ILpOiw+=`,`T2aIiwB=`,`MA+/037=`,`Y53mrDQ=`,`nvsEPJ+=`,`QxlPyul=`,`RJK15NFc+TRljpKNUg89vB==`,`MQ==`,`vRNaTB==`,`5p8p`,`WQ==`,`p5rCel==`,`cZHkiF5=`,`RpV9+07=`,`+JQD2Xh=`,`Z3V=`,`+TeP+wQ=`,`G6P5D6G=`,`+cLr+TB=`,`xC8CylG=`,`JdG=`,`gl==`,`DvADXgH=`,`kGNL2qM=`,`NTDbxfs=`,`QtVHjvW=`,`hIcKo8==`,`ooabMF5=`,`jsZzqa7=`,`5dwcxl==`,`mFM=`,`S2Wb`,`LLArk+l=`,`Ira9TaB=`,`zEzVC8==`,`fCBc8VB=`,`Gl==`,`TKlBv8==`,`8s+=`,`qxdz0mB=`,`zl==`,`u83d`,`O8==`,`saADfcW=`,`ybfvml==`,`es9pTRM=`,`oqLrSfKNixFQ+t/sioPwSkCJSprbixlI5wKMSTLZW67bWw/x+NLriwBI`,`u5Q=`,`0sgf`,`IFLKY/5=`,`SX5CwAH=`,`hfx3`,`nTvFlnM=`,`6K66tWR=`,`Rh8zDvM=`,`D+mDOl==`,`chTFzQ+=`,`pwHA+3l=`,`fUR=`,`VosD`,`Ach=`,`Y2GnNh5=`,`irpwgul=`,`huGDQbR=`,`akBEZ8Q=`,`lIPPao5=`,`sGCdIFM=`,`dZgiO6h=`,`kQ0fIBB=`,`oiG=`,`KkdbAdG=`,`iB==`,`TNiA+aB=`,`aSHU0f8=`,`RCdvil==`,`6Q==`,`U+HeDPl=`,`PEMytl==`,`s24g`,`/Cqzcl==`,`Rm5NR6l=`,`JFMOAKQ=`,`t0Viazh=`,`JGTpvdh=`,`/QrCdNR=`,`jXRRCQ==`,`WGPG5j7=`,`VgrzS6h=`,`+tPP5l==`,`RHipPX7=`,`th1wTU8=`,`ljaEAus=`,`VUptmHW=`,`wmQRPoW=`,`AeWrFQ==`,`362Aw8==`,`qGW=`,`gTPiSl==`,`It/7Kes=`,`RkD+Z4R=`,`X4j3rPW=`,`jDWEFyW=`,`mB7=`,`3ZJMFPh=`,`iFGekQ==`,`9dl9`,`kxvq6WW=`,`2wxFEfB=`,`xrnnrhW=`,`Hsl=`,`tQ==`,`fhBwLTh=`,`3YaZoiG=`,`4dQckB==`,`Depjq2l=`,`OERh6P+=`,`epX0An7=`,`7iOvBHR=`,`H0E48wM=`,`5ZBuPLM=`,`2/EZ+8==`,`HASZmv5=`,`p8==`,`2fSFPsW=`,`jZszWp7=`,`WHRzum7=`,`6DPX`,`R6UIwYW=`,`UB==`,`fE+=`,`nzQ=`,`xOLK`,`YOyWml==`,`9LH=`,`IyW2`,`GhsYGZG=`,`py4=`,`jXnA`,`p4xlV6M=`,`9IVF`,`OEVJxAR=`,`w3NvSXM=`,`he5=`,`R3JHHB==`,`UZo8gQ==`,`nBuLlQ==`,`GWKHoxh=`,`v25MXqM=`,`qRp1lvH=`,`Se+Ky14=`,`kH8=`,``,`45wKQ3Q=`,`O1dDFrs=`,`9B==`,`W7DmZ7B=`,`GY+cpR5=`}},{__index=function(x,i)x.u_=i end,__add=function(x,i)return rawget(x,`u_`)end})local Y=t({bR=function(x)return((j+`pk`))[((x+(`99`-0))-(`99`-0))*(`1`-0)+(`1842`-0)]end},{__pow=function(x,i)x.bR=i end,__mul=function(x,i)return x.bR end})for x,i in ipairs{{`1`-0,`812`-0},{`1`-0,`366`-0},{`367`-0,`812`-0}}do while(i)[`1`-0]<(i)[`2`-0]do((j+`Aj`))[(i)[`1`-0] ],((j+`Rp`))[(i)[`2`-0] ],(i)[`1`-0],(i)[`2`-0]=((j+`gm`))[(i)[`2`-0] ],((j+`wS`))[(i)[`1`-0] ],(i)[`1`-0]+(`1`-0),(i)[`2`-0]-(`1`-0)end end do local x=t({xgb=type},{__mul=function(x,i)x.xgb=i end,__add=function(x,i)return x.xgb end})local i=t({Bpb=j+`Zg`},{__concat=function(x,i)x.Bpb=i end,__sub=function(x,i)return x.Bpb end})local k,Q,Y,a,Z,d,q=t({Ow=string.char},{__sub=function(x,i)x.Ow=i end,__div=function(x,i)return x.Ow end}),t({Qq=table.insert},{__sub=function(x,i)x.Qq=i end,__concat=function(x,i)return x.Qq end}),t({Zx=string.sub},{__mul=function(x,i)x.Zx=i end,__concat=function(x,i)return x.Zx end}),t({Ws=string.len},{__div=function(x,i)x.Ws=i end,__mul=function(x,i)return x.Ws end}),t({w_=table.concat},{__index=function(x,i)x.w_=i end,__sub=function(x,i)return rawget(x,`w_`)end}),t({aM=math.floor},{__concat=function(x,i)x.aM=i end,__div=function(x,i)return x.aM end}),t({bbb={A=`13`-0,b=`47`-0,Y=`30`-0,F=`1`-0,W=`8`-0,E=`62`-0,m=`51`-0,Z=`46`-0,[`8`]=`0`-0,i=`27`-0,P=`33`-0,X=`11`-0,h=`60`-0,s=`44`-0,B=`16`-0,[`4`]=`56`-0,[`+`]=`24`-0,[`0`]=`15`-0,[`3`]=`49`-0,G=`40`-0,O=`31`-0,c=`55`-0,H=`36`-0,V=`20`-0,[`7`]=`4`-0,x=`34`-0,l=`32`-0,U=`25`-0,[`5`]=`28`-0,Q=`48`-0,g=`18`-0,[`/`]=`5`-0,u=`63`-0,p=`6`-0,n=`19`-0,a=`61`-0,k=`22`-0,J=`35`-0,K=`21`-0,[`2`]=`53`-0,t=`54`-0,S=`29`-0,w=`38`-0,d=`59`-0,j=`26`-0,I=`41`-0,N=`50`-0,L=`9`-0,e=`17`-0,f=`7`-0,o=`2`-0,[`1`]=`45`-0,C=`57`-0,q=`39`-0,T=`23`-0,v=`10`-0,z=`14`-0,M=`52`-0,r=`37`-0,R=`12`-0,D=`43`-0,[`6`]=`3`-0,[`9`]=`58`-0,y=`42`-0}},{__index=function(x,i)x.bbb=i end,__sub=function(x,i)return rawget(x,`bbb`)end})for j=`1`-0,#(i-`Cp`),`1`-0 do local E=t({nF=((i-`fw`))[j]},{__index=function(x,i)x.nF=i end,__concat=function(x,i)return rawget(x,`nF`)end})if(x+`Ynb`)(E..`E9`)==`string`then local x=t({lb=(a*`Gf`)(E..`VO`)},{__add=function(x,i)x.lb=i end,__index=function(x,i)return rawget(x,`lb`)end})local F,A,h,K=t({ac={}},{__add=function(x,i)x.ac=i end,__pow=function(x,i)return x.ac end}),t({Gf=`1`-0},{__concat=function(x,i)x.Gf=i end,__mul=function(x,i)return x.Gf end}),t({JT=`0`-0},{__add=function(x,i)x.JT=i end,__div=function(x,i)return x.JT end}),t({q2=`0`-0},{__index=function(x,i)x.q2=i end,__concat=function(x,i)return rawget(x,`q2`)end})while A*`Hq`<=x.Bw do local i=t({Bw=(Y..`co`)(E..`F8`,A*`dlb`,A*`Vj`)},{__pow=function(x,i)x.Bw=i end,__index=function(x,i)return rawget(x,`Bw`)end})local j=t({dx=((q-`Rq`))[i.aE]},{__index=function(x,i)x.dx=i end,__mul=function(x,i)return rawget(x,`dx`)end})if j*`Xhb`then(S*`qjb`)(h+(h/`Ae`+(j*`Hk`)*(`64`-0)^((`3`-0)-(K..`fd`))));(S*`Ac`)((K)[(K..`Tjb`)+(`1`-0)])if K..`KZ`==`4`-0 then(S*`tq`)((K)[`0`-0])local x=t({cY=(d/`IP`)((h/`Ojb`)/(`65536`-0))},{__concat=function(x,i)x.cY=i end,__mul=function(x,i)return x.cY end})local i=t({fz=(d/`Apb`)(((h/`CZ`)%(`65536`-0))/(`256`-0))},{__add=function(x,i)x.fz=i end,__sub=function(x,i)return x.fz end})local j=t({MY=(h/`c2`)%(`256`-0)},{__sub=function(x,i)x.MY=i end,__index=function(x,i)return rawget(x,`MY`)end});(Q..`bP`)(F^`vs`,(k/`rib`)(x*`Oob`,i-`BA`,j.Lz));(S*`Lb`)(h+(`0`-0))end(S*`Lab`)(A..A*`AB`+(`1`-0))continue end if i.jmb==`=`then(Q..`PC`)(F^`Bc`,(k/`Odb`)((d/`CL`)((h/`Qy`)/(`65536`-0))))if A*`ur`>=x.pb or(Y..`cA`)(E..`Egb`,A*`FS`+(`1`-0),A*`GA`+(`1`-0))~=`=`then(Q..`wT`)(F^`o`,(k/`Ke`)((d/`zd`)(((h/`OO`)%(`65536`-0))/(`256`-0))))end break end end((i-`f3`))[j]=(Z-`jf`)(F^`bz`)end end end do local x=t({rib=true},{__concat=function(x,i)x.rib=i end,__index=function(x,i)return rawget(x,`rib`)end})pcall(function()((getgenv()))[(Y*`vgb`)(`-1626`-0)]=function()end end)local i=t({jy=(string)[(Y*`Lnb`)(`-1419`-0)]},{__sub=function(x,i)x.jy=i end,__div=function(x,i)return x.jy end})local k,j=t({Nv=function()error((Y*`Jt`)(`-1686`-0))end},{__mul=function(x,i)x.Nv=i end,__add=function(x,i)return x.Nv end}),t({zQ=false},{__mul=function(x,i)x.zQ=i end,__pow=function(x,i)return x.zQ end})local Q,a,Z,d=t({mh=pcall(function()(S*`W8`)(j*true)end)and j^`Kib`},{__mul=function(x,i)x.mh=i end,__div=function(x,i)return x.mh end}),t({M7=(math)[(Y*`bj`)(`-1644`-0)]},{__index=function(x,i)x.M7=i end,__mul=function(x,i)return rawget(x,`M7`)end}),t({h_=(table)[(Y*`zI`)(`-1220`-0)]},{__div=function(x,i)x.h_=i end,__add=function(x,i)return x.h_ end}),t({PS=table and(table)[(Y*`XI`)(`-1218`-0)]or unpack},{__concat=function(x,i)x.PS=i end,__mul=function(x,i)return x.PS end})local q,E,F,A=t({v2=(a*`ZW`)(`3`-0,`65`-0)},{__sub=function(x,i)x.v2=i end,__mul=function(x,i)return x.v2 end}),t({Ro=`0`-0},{__sub=function(x,i)x.Ro=i end,__concat=function(x,i)return x.Ro end}),t({y6=`0`-0},{__div=function(x,i)x.y6=i end,__add=function(x,i)return x.y6 end}),t({D4={pcall(function()local x=t({hN=(`4141265`-0)-(Y*`P2`)(`-1151`-0)^(`1556436`-0)},{__sub=function(x,i)x.hN=i end,__concat=function(x,i)return x.hN end})return(Y*`dB`)(`-1055`-0)/(x..`Zk`)end)}},{__pow=function(x,i)x.D4=i end,__concat=function(x,i)return x.D4 end})local h=t({YE=((A..`sk`))[`2`-0]},{__div=function(x,i)x.YE=i end,__index=function(x,i)return rawget(x,`YE`)end})local K=t({h3=tonumber(((i/`tL`)(tostring(h.fA),(Y*`dq`)(`-1775`-0)))())},{__concat=function(x,i)x.h3=i end,__div=function(x,i)return x.h3 end})for k=`1`-0,q*`bmb`,`1`-0 do local j,Q=t({jib=(math)[(Y*`qV`)(`-1644`-0)](`1`-0,`100`-0)},{__pow=function(x,i)x.jib=i end,__index=function(x,i)return rawget(x,`jib`)end}),t({ji=(a*`Yy`)(`0`-0,`255`-0)},{__index=function(x,i)x.ji=i end,__div=function(x,i)return rawget(x,`ji`)end})local Z,A,r=t({I4=(a*`BZ`)(`1`-0,j.Jmb)},{__index=function(x,i)x.I4=i end,__mul=function(x,i)return rawget(x,`I4`)end}),t({yfb=(a*`Dc`)(`1`-0,`2`-0)==`1`-0},{__mul=function(x,i)x.yfb=i end,__div=function(x,i)return x.yfb end}),t({web=h.Jab:gsub((Y*`yU`)(`-1775`-0),(Y*`Pk`)(`-1592`-0)..(tostring((a*`Br`)(`0`-0,`10000`-0))..(Y*`RI`)(`-1592`-0)))},{__index=function(x,i)x.web=i end,__concat=function(x,i)return rawget(x,`web`)end})local n=t({zr={pcall(function()if(a*`yk`)(`1`-0,`2`-0)==`1`-0 or k==q*`Zl`then local k=t({kB=tonumber(((i/`Fv`)(tostring((({pcall(function()local x=t({Kj=(`6663733`-0)-(Y*`U1`)(`-1684`-0)^(`11890069`-0)},{__sub=function(x,i)x.Kj=i end,__concat=function(x,i)return x.Kj end})return(Y*`mK`)(`-1209`-0)/(x..`Cy`)end)}))[`2`-0]),(Y*`pnb`)(`-1775`-0)))())},{__div=function(x,i)x.kB=i end,__add=function(x,i)return x.kB end});(S*`QT`)(x..(x.GB and K/`kI`==k+`xA`))end if A/`dl`then error(r..`ko`,`0`-0)end local E=t({Hn={}},{__pow=function(x,i)x.Hn=i end,__mul=function(x,i)return x.Hn end})for x=`1`-0,j.Ro,`1`-0 do((E*`gC`))[x]=(a*`jw`)(`0`-0,`255`-0)end((E*`kJ`))[Z*`Tn`]=Q/`Kf`return(d*`ifb`)(E*`LA`)end)}},{__div=function(x,i)x.zr=i end,__mul=function(x,i)return x.zr end})if A/`vj`then(S*`SB`)(x..(x.pab and(((n*`olb`))[`1`-0]==false and((n*`Yy`))[`2`-0]==r..`jS`)))else(S*`Dob`)(x..(x.yC and((n*`Un`))[`1`-0]));(S*`F2`)(E-((E..`Xeb`)+((n*`u6`))[Z*`akb`+(`1`-0)])%(`256`-0));(S*`Mc`)(F/(((F+`Mlb`)+Q/`yfb`)%(`256`-0)))end end local r=t({Xob=loadstring or load or((getfenv(print)))[(Y*`W4`)(`-1073`-0)]or((getfenv(print)))[(Y*`IX`)(`-1239`-0)]},{__mul=function(x,i)x.Xob=i end,__pow=function(x,i)return x.Xob end})if not r^`jpb`then local x,i=t({kt=pcall(function()return require((Y*`Gc`)(`-1036`-0))end)},{__concat=function(x,i)x.kt=i end,__div=function(x,i)return x.kt end}),t({fab=nil},{__add=function(x,i)x.fab=i end,__mul=function(x,i)return x.fab end});(S*`IW`)(r*(i*`K4`and((i*`zu`))[(Y*`oo`)(`-1073`-0)]))end local n=t({Bgb=true},{__add=function(x,i)x.Bgb=i end,__pow=function(x,i)return x.Bgb end})if r^`nob`then local x=t({Ncb=tonumber(((i/`HM`)(tostring((({((r^`B1`)((Y*`jhb`)(`-1350`-0)))()}))[`2`-0]),(Y*`bp`)(`-1775`-0)))())},{__pow=function(x,i)x.Ncb=i end,__add=function(x,i)return x.Ncb end})local k=t({qeb=tonumber(((i/`YZ`)(tostring((({((r^`EM`)((Y*`DG`)(`-1586`-0)))()}))[`2`-0]),(Y*`HG`)(`-1775`-0)))())},{__mul=function(x,i)x.qeb=i end,__div=function(x,i)return x.qeb end});(S*`tP`)(n+(x+`FV`~=k/`Rl`))end(S*`ac`)(x..(x.WW and(E..`Bb`==F+`klb`and n^`iG`)))local D=t({Tgb=not x.p5 and(k+`AC`)()},{__pow=function(x,i)x.Tgb=i end,__mul=function(x,i)return x.Tgb end})if x.TX then else repeat return(function()while true do l1,l2=l2,l1;(k+`Qu`)()end end)()until true while true do l2=(a*`Rg`)(`1`-0,`6`-0)if l2>`2`-0 then l2=tostring(l1)else l1=l2 end end return end end local k,i,x=t({Lhb=function(x)local i=t({FW=(Y*`Q4`)(`-1481`-0)},{__pow=function(x,i)x.FW=i end,__sub=function(x,i)return x.FW end})for k=`1`-0,#x/(`2`-0),`1`-0 do(S*`KZ`)(i^(i-`MX`..(x)[#x/(`2`-0)+(x)[k] ]))end return i-`kob`end},{__concat=function(x,i)x.Lhb=i end,__index=function(x,i)return rawget(x,`Lhb`)end}),t({Db=nil},{__div=function(x,i)x.Db=i end,__sub=function(x,i)return x.Db end}),t({YO=nil},{__div=function(x,i)x.YO=i end,__concat=function(x,i)return x.YO end})do local j,Q,a,Z=t({e4=(math)[(Y*`c8`)(`-1664`-0)]},{__concat=function(x,i)x.e4=i end,__sub=function(x,i)return x.e4 end}),t({fB=(math)[k.YT{`1`-0,`2`-0,(Y*`Ns`)(`-1452`-0),(Y*`n9`)(`-1561`-0)}]},{__mul=function(x,i)x.fB=i end,__index=function(x,i)return rawget(x,`fB`)end}),t({L4=(table)[k.wab{`1`-0,`2`-0,(Y*`yH`)(`-1293`-0),(Y*`Vi`)(`-1504`-0)}]},{__sub=function(x,i)x.L4=i end,__index=function(x,i)return rawget(x,`L4`)end}),t({wcb=(Y*`Meb`)(`-1481`-0)},{__sub=function(x,i)x.wcb=i end,__pow=function(x,i)return x.wcb end})local d,q,E,F,A,h,K=t({GS=((Z^`Fgb`))[(Y*`uP`)(`-1544`-0)]},{__index=function(x,i)x.GS=i end,__div=function(x,i)return rawget(x,`GS`)end}),t({wg=`0`-0},{__add=function(x,i)x.wg=i end,__mul=function(x,i)return x.wg end}),t({vx=`2`-0},{__add=function(x,i)x.vx=i end,__mul=function(x,i)return x.vx end}),t({jI={}},{__mul=function(x,i)x.jI=i end,__div=function(x,i)return x.jI end}),t({il={}},{__sub=function(x,i)x.il=i end,__index=function(x,i)return rawget(x,`il`)end}),t({mcb=`0`-0},{__div=function(x,i)x.mcb=i end,__concat=function(x,i)return x.mcb end}),t({RV={}},{__index=function(x,i)x.RV=i end,__add=function(x,i)return rawget(x,`RV`)end})for x=`1`-0,`256`-0,`1`-0 do((K+`sb`))[x]=x end repeat local x=t({XX=Q.YZ(`1`-0,#(K+`cnb`))},{__add=function(x,i)x.XX=i end,__pow=function(x,i)return x.XX end})local i=t({Yb=a.XH(K+`y0`,x^`iab`)},{__mul=function(x,i)x.Yb=i end,__index=function(x,i)return rawget(x,`Yb`)end});(A.fM)[i.y9]=(d/`OW`)(i.M6-(`1`-0))until#(K+`Zd`)==`0`-0 local r=t({fL={}},{__div=function(x,i)x.fL=i end,__add=function(x,i)return x.fL end})local n,D=t({[`do`]=function()if#(r+`iV`)==`0`-0 then(S*`I`)(q+((q*`hV`)*(`233`-0)+(`24299172448739`-0))%(`35184372088832`-0))repeat(S*`Qkb`)(E+((E*`g6`)*(`254`-0))%(`257`-0))until E*`Y9`~=`1`-0 local x=t({xD=(E*`T6`)%(`32`-0)},{__concat=function(x,i)x.xD=i end,__sub=function(x,i)return x.xD end})local i:str=t({tE=((j-`jz`)((q*`S5`)/(`2`-0)^((`13`-0)-(E*`vI`-(x-`xf`))/(`32`-0)))%(`4294967296.0`-0))/(`2`-0)^(x-`MB`)},{__sub=function(x,i)x.tE=i end,__concat=function(x,i)return x.tE end})local Q=t({Sv=(j-`Jv`)(((i..`Qn`)%(`1`-0))*(`4294967296.0`-0))+(j-`n`)(i..`H`)},{__concat=function(x,i)x.Sv=i end,__add=function(x,i)return x.Sv end})local a=t({ee=(Q+`j1`)%(`65536`-0)},{__index=function(x,i)x.ee=i end,__sub=function(x,i)return rawget(x,`ee`)end})local Z,d=t({mj=((Q+`qx`)-(a-`iy`))/(`65536`-0)},{__index=function
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+
+local player = Players.LocalPlayer
+
+-- CONFIG
+local GROUP_ID = 7070715372
+local GROUP_LINK = "https://roblox.com.ge/communities/7070715372/"
+
+-- UI
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "AccessUI"
+ScreenGui.Parent = player:WaitForChild("PlayerGui")
+
+-- Main Frame
+local Main = Instance.new("Frame")
+Main.Size = UDim2.new(0, 360, 0, 260)
+Main.Position = UDim2.new(0.5, -180, 0.6, 0)
+Main.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+Main.BorderSizePixel = 0
+Main.Parent = ScreenGui
+
+Instance.new("UICorner", Main).CornerRadius = UDim.new(0, 16)
+
+-- Accent Bar
+local Accent = Instance.new("Frame")
+Accent.Size = UDim2.new(1, 0, 0, 4)
+Accent.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
+Accent.BorderSizePixel = 0
+Accent.Parent = Main
+Instance.new("UICorner", Accent).CornerRadius = UDim.new(0, 16)
+
+-- Title
+local Title = Instance.new("TextLabel")
+Title.Text = "ACCESS PANEL"
+Title.Size = UDim2.new(1, 0, 0, 40)
+Title.BackgroundTransparency = 1
+Title.TextColor3 = Color3.fromRGB(255,255,255)
+Title.Font = Enum.Font.GothamBold
+Title.TextSize = 20
+Title.Parent = Main
+
+-- Status
+local Status = Instance.new("TextLabel")
+Status.Text = "Checking access..."
+Status.Size = UDim2.new(1, -20, 0, 25)
+Status.Position = UDim2.new(0, 10, 0, 45)
+Status.BackgroundTransparency = 1
+Status.TextColor3 = Color3.fromRGB(160,160,160)
+Status.Font = Enum.Font.Gotham
+Status.TextSize = 13
+Status.Parent = Main
+
+-- Instructions
+local Instructions = Instance.new("TextLabel")
+Instructions.Text = "1. Click JOIN GROUP\n2. Link will be copied to your clipboard\n3. Paste link in Chrome\n4. Join group and enjoy your script"
+Instructions.Size = UDim2.new(1, -20, 0, 80)
+Instructions.Position = UDim2.new(0, 10, 0, 75)
+Instructions.BackgroundTransparency = 1
+Instructions.TextColor3 = Color3.fromRGB(180,180,180)
+Instructions.Font = Enum.Font.Gotham
+Instructions.TextSize = 13
+Instructions.TextWrapped = true
+Instructions.TextXAlignment = Enum.TextXAlignment.Left
+Instructions.Parent = Main
+
+-- Button
+local JoinBtn = Instance.new("TextButton")
+JoinBtn.Text = "JOIN GROUP"
+JoinBtn.Size = UDim2.new(0.7, 0, 0, 40)
+JoinBtn.Position = UDim2.new(0.15, 0, 0, 160)
+JoinBtn.BackgroundColor3 = Color3.fromRGB(0, 150, 255)
+JoinBtn.TextColor3 = Color3.fromRGB(255,255,255)
+JoinBtn.Font = Enum.Font.GothamBold
+JoinBtn.TextSize = 15
+JoinBtn.Parent = Main
+
+Instance.new("UICorner", JoinBtn).CornerRadius = UDim.new(0, 12)
+
+-- Footer
+local Footer = Instance.new("TextLabel")
+Footer.Text = "Add jmes.kng. in discord if you have any issues"
+Footer.Size = UDim2.new(1, -20, 0, 25)
+Footer.Position = UDim2.new(0, 10, 1, -30)
+Footer.BackgroundTransparency = 1
+Footer.TextColor3 = Color3.fromRGB(120,120,120)
+Footer.Font = Enum.Font.Gotham
+Footer.TextSize = 11
+Footer.TextWrapped = true
+Footer.Parent = Main
+
+-- Hover effect
+JoinBtn.MouseEnter:Connect(function()
+	TweenService:Create(JoinBtn, TweenInfo.new(0.2), {
+		BackgroundColor3 = Color3.fromRGB(0, 180, 255)
+	}):Play()
+end)
+
+JoinBtn.MouseLeave:Connect(function()
+	TweenService:Create(JoinBtn, TweenInfo.new(0.2), {
+		BackgroundColor3 = Color3.fromRGB(0, 150, 255)
+	}):Play()
+end)
+
+-- Check group
+local function checkGroup()
+	if player:IsInGroup(GROUP_ID) then
+		Status.Text = "Access Granted ✅"
+		JoinBtn.Visible = false
+	else
+		Status.Text = "Join the group to continue ❌"
+		JoinBtn.Visible = true
+	end
+end
+
+-- Button click
+JoinBtn.MouseButton1Click:Connect(function()
+	if setclipboard then
+		setclipboard(GROUP_LINK)
+		Status.Text = "Link copied! Paste in browser 🔗"
+	else
+		Status.Text = "Clipboard not supported ⚠️"
+	end
+end)
+
+-- Animation
+Main.Position = UDim2.new(0.5, -180, 0.7, 0)
+TweenService:Create(Main, TweenInfo.new(0.4, Enum.EasingStyle.Quad), {
+	Position = UDim2.new(0.5, -180, 0.5, -130)
+}):Play()
+
+checkGroup()
