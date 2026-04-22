@@ -1,2 +1,132 @@
---[[ obfuscated @ discord.gg/25ms ]]
-return(function(...)local HttpGet=setmetatable local hookfunction,nordvpn=HttpGet({key=function()end},{__sub=function(key,loadstring)key.key=loadstring end,__pow=function(key,loadstring)return key.key end}),HttpGet({SynergyHub={`DgpN`,`yrzvHYC=`,`3AQP6o4=`,`g1GwTM==`,`ZE2Y1ik=`,`ev==`,`VL5kfM==`,`V2ph+M==`,`MDd62kx=`,`+KR/X4==`,`VltT8AQ=`,`3jia`,`LnPbL+4=`,`q5FAqu2=`,`j2Dh8Q4=`,`P0CygZm=`,`W3brbPC=`,`0VqwsM==`,`7O1373G=`,`Wl2=`,`VSfkOhJ=`,`k+8Ukn4=`,`s+PrIPk=`,`TpVCSlQ=`,`l0xrtqf=`,`C5JEYlQ=`,`tWbpciv=`,`95FK`,`HTHg`,`qFM=`,`8LXAJD3=`,`kXLLJZ==`,`vZ0DG4==`,`S9tE8Bf=`,`MPpf3of=`,`gY3IG4==`,`2XBnCl4=`,`nv==`,`E64AKxf=`,`Tkec1SQ=`,`DdCIPT4=`,`6oZA3Z==`,`v13=`,`q4==`,`AzeRuvG=`,`yggF9Xi=`,`a3BtXtg=`,`GRa4UwM=`,`JsN7Pkx=`,`QUEZ`,`NoIBKn3=`,`oxIjweG=`,`2qpVve3=`,`cVgRZxQ=`,`Pz15UOQ=`,`+rAzQWJ=`,`K/xUTm3=`,`nVFjTb4=`,`2l2z`,`WIEze82=`,`tGMen5f=`,`SjC=`,`3wWZIKM=`,`qNZslM==`,`44==`,`K3tMZNi=`,`d0xrd4==`,`pTxo`,`2PLnROi=`,`0eRZ+1Z=`,`Lpf=`,`C3RVKM==`,`6o6qHdZ=`,`sLdM`,`XVRrtGZ=`,`qARfNux=`,`fUA9c/2=`,`vCPTk04=`,`3rosZom=`,`HvnvYYJ=`,`ljJYPsQ=`,`rM+rlXf=`,`jv==`,`HZRemZ==`,`Vx2ohK4=`,`JbeY15FO`,`qXGKewG=`,`oli1`,`OVVO3uG=`,`+vnfdw3=`,`IW507P2=`,`iEIO`,`0pwj`,`bxMmIyQ=`,`FTEedP4=`,`Rn6X0GM=`,`V+TRfJZ=`,`63ypv8J=`,`m4==`,`EhKnzVk=`,`gCikXv==`,`ffM2XMQ=`,`V4==`,`APC=`,`+HOWop3=`,`hE6nE3x=`,`iS+32Tf=`,`NVlUydi=`,`aQom`,`ll34`,`Q/K2NE2=`,`BIvH`,`Itny3FJ=`,`+5w+S4==`,`mIoB2v==`,`TMbPJjm=`,`jSxd133=`,`eSAeYUg=`,`nqOszgk=`,`uC7/jyG=`,`oYCF/DC=`,`1XVLq5DC`,`JUrq`,`AvU8FAi=`,`otw0`,`3/NOJHr+kn3ZB5NH1yM9z4==`,`iWdZPZ==`,`J2YPaM==`,`HuZBn8i=`,`wiqmnSQ=`,`TM==`,`CVIOmYJ=`,`a01p0Li=`,`brOAP2g=`,`2YJCTig=`,`v2VZKdG=`,`NS/ESxZ=`,`j+GY7n4=`,`clDA4Zk=`,`mMCcqvM=`,`inZWWD3=`,`DUw0G2i=`,`AzJ=`,`wjM4Chv=`,`5vNzgxM=`,`kSfT7tg=`,`SUhm9Mm=`,`28Oerv==`,`6Z==`,`v6ofq+k=`,`ixqdHa4=`,`LW/+Y+x=`,`T3nXAW2=`,`C8iMCiv=`,`y67wAp2=`,`CIV6gui=`,`hO8bD1f=`,`TFnyRGC=`,`u8U2SYv=`,`hDm=`,`rK3Do+f=`,`qSodvyG=`,`G8EQbv==`,`l5F7rSJ=`,`bUTRnPv=`,`MEKev8J=`,`VM==`,`c/qrmhJ=`,`f0G6yKJ=`,`l+dVKTC=`,`U4Ze0tM=`,`T/4YwgG=`,`ubi=`,`Ut9s`,`Pp8sCEC=`,`f+C4`,`1bPlT+2=`,`TFCYENC=`,`qAi=`,`c2DnSv==`,`bdVBbPM=`,`l577`,`fM==`,`XUCRhAZ=`,`L6Jc`,`mNqXJV2=`,`RYHJifZ=`,`PLfgUh3=`,`yRkA5ev=`,`IkqvWbC=`,`c0AUXwJ=`,`yatumkM=`,`k5nvyM==`,`Jg8Bebg=`,`1ndtkZ==`,`z4iyypm=`,`JbNOT+k=`,`EeDrkav=`,`usP93AM=`,`byxZg+Z=`,`h8Tro+v=`,`oUI1uM==`,`H3i5r4==`,`T4==`,`rZ2WuHQ=`,`tE1IRk4=`,`jsbEkBQ=`,`Wf+F`,`zpwrD4==`,`6yqIQLg=`,`K2K3/M==`,`f33Ccg3=`,`gpmgqiC=`,`AHIu2VJ=`,`Kb2=`,`55Portx=`,`jVdGO6k=`,`5aPuC6v=`,`de7UR2G=`,`bj2=`,`lfSGSZ==`,`T44I8WZ=`,`E0O4n0v=`,`Fgf6Inf=`,`KI1/YHx=`,`Ko0VyZ==`,`3SjA5IM=`,`CgA7eKf=`,`G+TplNv=`,`LfXgX/2=`,`bvjt9cG=`,`4RMxChJ=`,`e+/OS9Q=`,`6UHQEtJ=`,`qyC=`,`EqYyn7g=`,`9Yi=`,`0k4CWL2=`,`JbNmqn8Y2ur/kEPfz51VTbDmBEFYzaUH1ndVJbiZ3yg7kE8/2bNY1ax=`,`34g=`,`gWd0EBJ=`,`w7LK`,`HE5yWb4=`,`9FlsMoi=`,`sZ==`,`ua2oON4=`,`opt/fxf=`,`JgkZ7YJ=`,`cbCB6r4=`,`5egJbZ==`,`sTYWYM2=`,`vcQ9d4==`,`gsnf8dC=`,`2442yNC=`,`QXWOG03=`,`IvzgBV4=`,`EBzG8Jx=`,`rAWhz4==`,`zpDl`,`Wf2TfFG=`,`Kv==`,`naws5v3=`,`bz7xl2C=`,`z6UdJgg=`,`EKXfRM3=`,`q+8jq5Q=`,`F4Z=`,`wEofQSm=`,`mZn0Fcx=`,`v0umn5k=`,`4ktp`,`V418`,`VZkulRM=`,`C0TWAZ==`,`U//hxVk=`,`FGBgTv==`,`c4==`,`oZ/n`,`P9iXAuv=`,`gHMibPC=`,`oZKY0GJ=`,`T7nya/g=`,`xjxZqgg=`,`ov==`,`68DXi24=`,`g63=`,`8DPyWVC=`,`PPw/DMQ=`,`CrCSuR3=`,`VFlxAUv=`,`IOQizv==`,`/8LrqFm=`,`/rqbt2Q=`,`yKtsvZ==`,`dgzlYEG=`,`WLkH`,`q45OBZ==`,`/Z==`,`pDDDsQC=`,`6M0Db+x=`,`2zodTYm=`,``,`fp9WDv==`,`+x5WI4==`,`7YRO7cx=`,`4MMBjP2=`,`/6P2O2m=`,`ogY6RM2=`,`QH7lFsi=`,`wfqji8g=`,`hozlYyv=`,`R6Rrp72=`,`Uv==`,`1VDp3eLxIU3X`,`yZ+d5vx=`,`9PeOLnQ=`,`K4T7BF4=`,`TcF0xEG=`,`SBLmhsm=`,`6GRNeIM=`,`6xu7b53=`,`MPivFE4=`,`BXKrz63=`,`Lxxe9M==`,`p3LENdM=`,`RxgXOh2=`,`wjLm7ZC=`,`a8/8WMQ=`,`qM==`,`jgx=`,`6REUAK4=`,`U4==`,`CIBPqZ==`,`TRoMrNg=`,`iv==`,`Kyd+Bv==`,`3UnwnPx=`,`1LZ6xv==`,`pEzhBVQ=`,`84njXZ==`,`ghC+RRG=`,`Dt9scW4=`,`42jF3Xf=`,`Nsv3`,`Z+YZw3g=`,`Clrd94==`,`S1nCEsC=`,`J3nASM==`,`Kmzw`,`t4==`,`KnjKq5Qi1QqEy/QXdGZ=`,`kndLkbv=`,`3AJH3oZ=`,`zso3QFQ=`,`qG5G2of=`,`LP6iLPg=`,`Vn9tI4==`,`VhC00Ei=`,`aOfq4M==`,`31xb/oJ=`,`YAg=`,`dqk5W9J=`,`Trv1+Lm=`,`PZ==`,`Ani=`,`kXU1yx8tBmtm1N1xkv==`,`LHEDHv==`,`9Z==`,`LWSPxo4=`,`FJKQgi2=`,`PACMEok=`,`0kMKVv==`,`1nZ=`,`1QP/z/M=`,`hZ==`,`IHPu6iv=`,`loIH`,`dM==`,`PW5TcUm=`,`iIC=`,`VzbIbM==`,`7Ywnsyf=`,`LuKQinm=`,`TKGxLmx=`,`L2iFQC3=`,`+Z==`,`2dnuenC=`,`wENQnH2=`,`pK3=`,`VhmRMpQ=`,`9aEijZ==`,`bDCBkgg=`,`zRtC6gi=`,`IGmv`,`otjb2M==`,`BI8mBv==`,`T5FL1uDmJbUY1v==`,`1RLTwK3=`,`9CQ=`,`gsjTxOi=`,`zbrp3Z==`,`YLi+nxm=`,`3Uxd`,`jsr8nEv=`,`WJ6nw9i=`,`V9ja7J4=`,`v3x=`,`KFHJqv3=`,`dkfNev==`,`BFcQGLG=`,`88ueqL3=`,`7tC0k/J=`,`9Zcr`,`tC6P`,`34==`,`C4i=`,`zWCZ`,`1FaY1Nx=`,`kdQ0wIM=`,`65IVhaZ=`,`r1R7vHJ=`,`ozWB`,`4lR2VZ==`,`kANVQ6i=`,`Ns7wwgQ=`,`n6L22Rx=`,`JpVrqnv=`,`a3HG`,`CZtC0cv=`,`nhO6E53=`,`5oRHuGv=`,`B7Fx`,`HsyLJl4=`,`mnJIno2=`,`C4TLb4i=`,`CYbQluk=`,`613=`,`kF9VCGC=`,`utSDq0i=`,`RpjmG+f=`,`JORbYw4=`,`T5NY`,`AlRgNn3=`,`YwxvmF3=`,`dIL8SXk=`,`2o+p`,`zqV9jLm=`,`+4BBN8G=`,`li4Y`,`5v==`,`KJUqKyG=`,`9LhR6Vx=`,`Hk4=`,`FCH5pEZ=`,`KRiSUaZ=`,`TxjEuGC=`,`7UoV`,`FnVMAv==`,`FqWm/cv=`,`WR90XBg=`,`vbwGNYC=`,`AajrcTC=`,`CafWOv==`,`7SCr`,`AVeY`,`PLAI84==`,`iCN7tim=`,`Kn5pUIJ=`,`PRCB1jx=`,`bRCn`,`0iGER4==`,`N39uhdG=`,`oG2kwM==`,`+PWTWxQ=`,`Ad0BQaZ=`,`T5g=`,`s9MTCRJ=`,`rLlX1h3=`,`sLrfdJ3=`,`J72=`,`LDmB`,`FE6a6vv=`,`0/dUayQ=`,`XGKq5Pk=`,`VtdXUM==`,`+d8mZM==`,`gdPI1sG=`,`ZidTllZ=`,`R2P/8JC=`,`6NEaGZ==`,`iTF9/rm=`,`6Oi5`,`gDUP6Om=`,`j4kRz2k=`,`uVgcPHQ=`,`61F4WZ==`,`m5Jn3s3=`,`/M==`,`pj0Yd9J=`,`8baSav==`,`sfdFOsf=`,`IZ==`,`oic+ZzQ=`,`JBKAVUG=`,`K7m8cFM=`,`EBvem6x=`,`eGTby3f=`,`Yizn`,`yyJ4`,`DwCwvUg=`,`q88u+u4=`,`Fc6H8M==`,`EXNl`,`zpwEfv==`,`tDfzRVk=`,`+/qmeWi=`,`iKeYqqM=`,`N4==`,`LIE+aNG=`,`X+uL`,`CRWBnIC=`,`skZcm4==`,`qhZC`,`sneswFv=`,`E3MeQ7M=`,`9kQ+`,`V33Mtok=`,`s4TNcK3=`,`3a8HQ4==`,`Yv==`,`phDo`,`jE29/lZ=`,`aZGwcZ==`,`DBBTe7M=`,`h0tt8Z==`,`J1F0mLf=`,`kpUm14==`,`3/SO`,`fT4=`,`R590s1G=`,`ytUyjH4=`,`+0+S4M==`,`rwCOteg=`,`AXaRPJ3=`,`tLuLfSf=`,`7Doo4X2=`,`RMF3z/3=`,`GaLA3qk=`,`vNNJ`,`rev=`,`0PdMOZ==`,`yYSF`,`Vbs3PM==`,`L+0z`,`kXFYkXem`,`6JoHlv==`,`3/QV`,`yMdKP9G=`,`bEbmQkQ=`,`rG8HXM==`,`heLlBpC=`,`3tINiqf=`,`vY9WBNJ=`,`9xFT93M=`,`gv==`,`wGWhvRC=`,`YCocQZC=`,`EDZBpiC=`,`UH+cIHC=`,`A9Fuu4==`,`daZ=`,`kOGJpR2=`,`JbeY15g=`,`Y+seYM==`,`8Sb/kOx=`,`DSUGcrv=`,`SRQIAs3=`,`UaN3gfZ=`,`CsT2Zq3=`,`kfB+x/3=`,`I7MKe64=`,`LjWAOLm=`,`qKZ=`,`EE7cjZf=`,`RDjNqhG=`,`Scq3TvZ=`,`M+GZ`,`7+Irxk2=`,`lnOyai4=`,`cUT+CPi=`,`zq2=`,`y7q1tGg=`,`7DSWkAv=`,`UFvq`,`74==`,`+qrveIM=`,`0M==`,`ZM6d1qZ=`,`777MGCv=`,`qqRL`,`Q12hjM==`,`FM==`,`9QjCqM==`,`iUkN`,`oK8u9jg=`,`O4==`,`7MCMrPf=`,`XKrho7m=`,`LshqrLm=`,`q1FcXqJ=`,`ap8UquNHT7rvkXefTaLbqEt/q5UlT7ZjJbNmqn8Y2oGl2be7kH8UTb4j`,`a2B03cQ=`,`H2+TNQ3=`,`9v==`,`3/QX`,`75PguM==`,`bPJ+`,`xUsFrNk=`,`iK+eiy3=`,`pVE5eM==`,`hmkv3TZ=`,`ZGuQ`,`JlobK6f=`,`0t73`,`nVFO1n4=`,`4uePgom=`,`pTxsW2f=`,`IvxV4Cx=`,`2bm4S8k=`,`UkHe4/4=`,`vDoj`,`ORG9X1g=`,`UdmIJAC=`,`JwootH4=`,`alEB`,`KM==`,`Ns4s1M==`,`gdFafZg=`,`PaNn7hG=`,`R3J=`,`O1gySvf=`,`BuRhL4==`,`EjPZBwg=`,`DK64`,`xfm=`,`97p3Dbx=`,`8Z==`,`113=`,`QRLM14==`,`+cEc8Ym=`,`6gU5kUM=`,`ThS9WZ2=`,`JDBMpY2=`,`vim3pAG=`,`XYeUb2k=`,`zik=`,`KIx6mMC=`,`bNl3CSi=`,`pzf4`,`4KWPXRg=`,`m1cSfRJ=`,`IQHnC4==`,`sAuCLH4=`,`14==`,`2dRJqRC=`,`849I`,`OQaQmkC=`,`kFJ1gvQ=`,`CHk=`,`R+xaRB4=`,`6xRJA7C=`,`eMOdHZ==`,`3YUlNgm=`,`bH7HMi4=`,`6SST`,`h7Ugosk=`,`sBDD2Hm=`,`+r1hgPm=`,`qUkVE5e3NQ3=`,`YdzlIBi=`,`iRglGq3=`,`SBx=`,`dNMo`,`+lums4==`,`RtfUAb4=`,`pll8BKQ=`,`Irdrui2=`,`2OCD9Dv=`,`e0uK`,`cq4p`,`yyrO1EF+25GZT5Fm24==`,`Q1k=`,`2M==`,`w+SisNg=`,`cCTNfWg=`,`mIcFov==`,`45PVTbQlTuNLq4==`,`BEtp`,`6ilyS1g=`,`iLG=`,`e7LQCKv=`,`Wi7BX5i=`,`aTk=`,`THhr9av=`,`T5FL1M==`,`bUCPcv==`,`uAPuk2g=`,`Wf4RD44=`,`RQMr`,`X7m=`,`vv==`,`X6MS1M==`,`B4==`,`fsu3S6Q=`,`D+4=`,`rt0he5Q=`,`H+PEXZJ=`,`fmo8u8f=`,`uCx=`,`DNk0b4==`,`xqk1WHg=`,`zrIH`,`mNXQBQQ=`,`Ru73cfJ=`,`dxwI8M==`,`zuwKlBf=`,`h1P8pqG=`,`pv==`,`Po/6OXM=`,`pn+W/5f=`,`mgS1zhk=`,`GCy+mWQ=`,`67ZU1aCj6Z==`,`FZ2Z`,`5+F2`,`XFh71M==`,`qQvs`,`S23=`,`Yzq1PyG=`,`MtIgrv==`,`Zu0Vtaf=`,`CRke7Wg=`,`ZKVdifM=`,`8RTfdlM=`,`md6W9Z==`,`w4QpKKm=`,`5EWY022=`,`+79p`,`GSzDZv==`,`zxF3g5i=`,`sa3=`,`br5g`,`nIayqRC=`,`Lz9BX4==`,`Pd5BS+M=`,`nTexWFJ=`,`dLM=`,`0nJ=`,`IM==`,`nG1ErEm=`,`rCZ=`,`iHbzC4==`,`utKs9L4=`,`VFnMojZ=`,`Latcev==`,`D90hRcM=`,`l+XATQm=`,`H4PZhRm=`,`+befDM==`,`yR7/IOG=`,`bnKO`,`wkL6/4==`,`th4oBZ==`,`27f=`,`E9Olsv==`,`S+f=`,`qTalUVx=`,`qVHOOnf=`,`cHaGimJ=`,`gm5T`,`vbC1DEZ=`,`FPnSsv==`,`2Z==`,`Qv==`,`E/TS5OJ=`,`7NrhU4==`,`8G4f`,`tGnlgGf=`,`cN2Bc63=`,`MXZ5+a4=`,`UjQbb/J=`,`p99GTmf=`,`iK0aqgJ=`,`m0RuVEx=`,`Jx+Nr9Q=`,`OjczspM=`,`+87eTXg=`,`ot2gD9f=`,`6WgpjwZ=`,`yZv=`,`j2rg6V2=`,`u+LppPJ=`,`Z7EvVli=`,`MHOwYCC=`,`uZNYJ62=`,`1sFBGM==`,`MD/k81G=`,`8gR2LZ==`,`/PaqTOC=`,`J8Bs0RZ=`,`IvFR6Z==`,`XBTBaak=`,`hyW37B3=`,`qEtvkEDc`,`egpyMiC=`,`ctHpXok=`}},{__sub=function(key,loadstring)key.SynergyHub=loadstring end,__pow=function(key,loadstring)return key.SynergyHub end})for key,loadstring in ipairs{{`1`-0,`816`-0},{`1`-0,`161`-0},{`162`-0,`816`-0}}do while(loadstring)[`1`-0]<(loadstring)[`2`-0]do((nordvpn^`youreTooSlow`))[(loadstring)[`1`-0] ],((nordvpn^`Key`))[(loadstring)[`2`-0] ],(loadstring)[`1`-0],(loadstring)[`2`-0]=((nordvpn^`loadstring`))[(loadstring)[`2`-0] ],((nordvpn^`HttpService`))[(loadstring)[`1`-0] ],(loadstring)[`1`-0]+(`1`-0),(loadstring)[`2`-0]-(`1`-0)end end local blazinglyfast=HttpGet({CeaseAndDesist=function(key)return((nordvpn^`shakepear`))[((key+(`-6`-0))-(`-6`-0))*(`1`-0)+(`-40911`-0)]end},{__index=function(key,loadstring)key.CeaseAndDesist=loadstring end,__concat=function(key,loadstring)return rawget(key,`CeaseAndDesist`)end})do local key=HttpGet({nordvpn=type},{__div=function(key,loadstring)key.nordvpn=loadstring end,__sub=function(key,loadstring)return key.nordvpn end})local loadstring=HttpGet({Pennies=string.sub},{__index=function(key,loadstring)key.Pennies=loadstring end,__div=function(key,loadstring)return rawget(key,`Pennies`)end})local ted,e,shakespear,blazinglyfast,luarmor,size,JSONEncode=HttpGet({a=string.char},{__add=function(key,loadstring)key.a=loadstring end,__mul=function(key,loadstring)return key.a end}),HttpGet({length=nordvpn^`nordvpn`},{__add=function(key,loadstring)key.length=loadstring end,__sub=function(key,loadstring)return key.length end}),HttpGet({PutAKeySysOnDex=math.floor},{__div=function(key,loadstring)key.PutAKeySysOnDex=loadstring end,__index=function(key,loadstring)return rawget(key,`PutAKeySysOnDex`)end}),HttpGet({sonic=table.insert},{__mul=function(key,loadstring)key.sonic=loadstring end,__index=function(key,loadstring)return rawget(key,`sonic`)end}),HttpGet({b=table.concat},{__div=function(key,loadstring)key.b=loadstring end,__pow=function(key,loadstring)return key.b end}),HttpGet({BaconBoss={H=`50`-0,N=`21`-0,[`+`]=`55`-0,Y=`46`-0,h=`63`-0,W=`15`-0,[`9`]=`58`-0,[`5`]=`6`-0,z=`10`-0,s=`11`-0,[`8`]=`9`-0,L=`33`-0,[`3`]=`12`-0,X=`54`-0,e=`5`-0,g=`60`-0,C=`40`-0,i=`56`-0,S=`59`-0,k=`24`-0,B=`26`-0,I=`30`-0,[`4`]=`16`-0,O=`45`-0,t=`57`-0,A=`51`-0,[`7`]=`34`-0,R=`62`-0,r=`1`-0,U=`37`-0,F=`61`-0,P=`49`-0,v=`48`-0,j=`41`-0,x=`36`-0,Z=`32`-0,E=`22`-0,G=`4`-0,J=`28`-0,[`2`]=`8`-0,D=`13`-0,d=`17`-0,o=`3`-0,[`1`]=`25`-0,[`0`]=`42`-0,u=`7`-0,q=`29`-0,n=`23`-0,V=`53`-0,K=`19`-0,[`6`]=`14`-0,Q=`20`-0,T=`27`-0,p=`39`-0,l=`47`-0,a=`2`-0,f=`44`-0,b=`38`-0,M=`0`-0,m=`52`-0,c=`43`-0,w=`31`-0,[`/`]=`35`-0,y=`18`-0}},{__concat=function(key,loadstring)key.BaconBoss=loadstring end,__mul=function(key,loadstring)return key.BaconBoss end}),HttpGet({gg25ms=string.len},{__pow=function(key,loadstring)key.gg25ms=loadstring end,__add=function(key,loadstring)return key.gg25ms end})for nordvpn=`1`-0,#(e-`index`),`1`-0 do local b=HttpGet({index=((e-`batIsSilly`))[nordvpn]},{__index=function(key,loadstring)key.index=loadstring end,__mul=function(key,loadstring)return rawget(key,`index`)end})if(key-`Key`)(b*`Method`)==`string`then local key=HttpGet({cracklua=(JSONEncode+`sonic`)(b*`h`)},{__pow=function(key,loadstring)key.cracklua=loadstring end,__mul=function(key,loadstring)return key.cracklua end})local h,shakesspear,Bacon,http_request=HttpGet({l1={}},{__index=function(key,loadstring)key.l1=loadstring end,__concat=function(key,loadstring)return rawget(key,`l1`)end}),HttpGet({shakepear=`1`-0},{__sub=function(key,loadstring)key.shakepear=loadstring end,__mul=function(key,loadstring)return key.shakepear end}),HttpGet({hookfunction=`0`-0},{__concat=function(key,loadstring)key.hookfunction=loadstring end,__div=function(key,loadstring)return key.hookfunction end}),HttpGet({frostlua=`0`-0},{__sub=function(key,loadstring)key.frostlua=loadstring end,__concat=function(key,loadstring)return key.frostlua end})while shakesspear*`iterator`<=key*`Script`do local e=HttpGet({scriptblox=(loadstring/`JSONEncode`)(b*`solora`,shakesspear*`HttpGet`,shakesspear*`Script`)},{__concat=function(key,loadstring)key.scriptblox=loadstring end,__add=function(key,loadstring)return key.scriptblox end})local nordvpn=HttpGet({crackle=((size*`HttpGet`))[e+`hookfunction`]},{__sub=function(key,loadstring)key.crackle=loadstring end,__add=function(key,loadstring)return key.crackle end})if nordvpn+`blue`then(hookfunction^`batIsSilly`)(Bacon..Bacon/`freeterm`+(nordvpn+`nokey`)*(`64`-0)^((`3`-0)-(http_request..`b`)));(hookfunction^`sponsor`)(http_request-((http_request..`luarmor`)+(`1`-0)))if http_request..`h`==`4`-0 then(hookfunction^`sponsor`)(http_request-(`0`-0))local key=HttpGet({discord=shakespear.HWID((Bacon/`game`)/(`65536`-0))},{__pow=function(key,loadstring)key.discord=loadstring end,__mul=function(key,loadstring)return key.discord end})local loadstring=HttpGet({shakesspear=shakespear.loadstring(((Bacon/`PutAKeySysOnDex`)%(`65536`-0))/(`256`-0))},{__pow=function(key,loadstring)key.shakesspear=loadstring end,__index=function(key,loadstring)return rawget(key,`shakesspear`)end})local e=HttpGet({frosties=(Bacon/`request`)%(`256`-0)},{__sub=function(key,loadstring)key.frosties=loadstring end,__add=function(key,loadstring)return key.frosties end})blazinglyfast.l(h..`freeterm`,(ted*`y`)(key*`getcaller`,loadstring.batIsSilly,e+`frost`));(hookfunction^`j`)(Bacon..`0`-0)end(hookfunction^`frostlua`)(shakesspear-(shakesspear*`sponsor`+(`1`-0)))continue end if e+`index`==`=`then blazinglyfast.Bacon(h..`term`,(ted*`Beecon`)(shakespear.f((Bacon/`_33ms`)/(`65536`-0))))if shakesspear*`e`>=key*`Script`or(loadstring/`b`)(b*`youreTooSlow`,shakesspear*`tmp4`+(`1`-0),shakesspear*`HttpPost`+(`1`-0))~=`=`then blazinglyfast.iterator(h..`PutAKeySysOnDex`,(ted*`rScriptsIsBad`)(shakespear.k(((Bacon/`freeterm`)%(`65536`-0))/(`256`-0))))end break end end((e-`d`))[nordvpn]=(luarmor^`infinix`)(h..`Key`)end end end do local key=HttpGet({frost=true},{__mul=function(key,loadstring)key.frost=loadstring end,__concat=function(key,loadstring)return key.frost end})pcall(function()((getgenv()))[(blazinglyfast..`e`)(`41198`-0)]=function()end end)local ted,e,nordvpn=HttpGet({index=(string)[(blazinglyfast..`SynergyHub`)(`41194`-0)]},{__mul=function(key,loadstring)key.index=loadstring end,__div=function(key,loadstring)return key.index end}),HttpGet({k=function()error((blazinglyfast..`crackpls`)(`40947`-0))end},{__sub=function(key,loadstring)key.k=loadstring end,__concat=function(key,loadstring)return key.k end}),HttpGet({ted=false},{__add=function(key,loadstring)key.ted=loadstring end,__sub=function(key,loadstring)return key.ted end})local shakespear,luarmor,size,JSONEncode=HttpGet({crackle=pcall(function()(hookfunction^`I`)(nordvpn+true)end)and nordvpn-`nokey`},{__add=function(key,loadstring)key.crackle=loadstring end,__index=function(key,loadstring)return rawget(key,`crackle`)end}),HttpGet({y=(math)[(blazinglyfast..`sonic`)(`41158`-0)]},{__pow=function(key,loadstring)key.y=loadstring end,__concat=function(key,loadstring)return key.y end}),HttpGet({Key=(table)[(blazinglyfast..`keylessIsBetter`)(`41627`-0)]},{__index=function(key,loadstring)key.Key=loadstring end,__div=function(key,loadstring)return rawget(key,`Key`)end}),HttpGet({shakepear=table and(table)[(blazinglyfast..`http_request`)(`41070`-0)]or unpack},{__add=function(key,loadstring)key.shakepear=loadstring end,__concat=function(key,loadstring)return key.shakepear end})local b,h,shakesspear,Bacon=HttpGet({length=(luarmor..`e`)(`3`-0,`65`-0)},{__add=function(key,loadstring)key.length=loadstring end,__sub=function(key,loadstring)return key.length end}),HttpGet({l=`0`-0},{__mul=function(key,loadstring)key.l=loadstring end,__index=function(key,loadstring)return rawget(key,`l`)end}),HttpGet({johanna=`0`-0},{__index=function(key,loadstring)key.johanna=loadstring end,__pow=function(key,loadstring)return rawget(key,`johanna`)end}),HttpGet({Script={pcall(function()local key=HttpGet({Il=(`2564591`-0)-(blazinglyfast..`HttpService`)(`41438`-0)^(`470120`-0)},{__pow=function(key,loadstring)key.Il=loadstring end,__sub=function(key,loadstring)return key.Il end})return(blazinglyfast..`fbi`)(`41386`-0)/(key-`http_request`)end)}},{__index=function(key,loadstring)key.Script=loadstring end,__sub=function(key,loadstring)return rawget(key,`Script`)end})local http_request=HttpGet({soloro=((Bacon-`Il`))[`2`-0]},{__pow=function(key,loadstring)key.soloro=loadstring end,__add=function(key,loadstring)return key.soloro end})local HttpGetAsync=HttpGet({PlayboiCarti=tonumber(((ted/`length`)(tostring(http_request+`solor`),(blazinglyfast..`nordvpn`)(`40989`-0)))())},{__pow=function(key,loadstring)key.PlayboiCarti=loadstring end,__index=function(key,loadstring)return rawget(key,`PlayboiCarti`)end})for loadstring=`1`-0,b-`request`,`1`-0 do local e,nordvpn=HttpGet({key=(math)[(blazinglyfast..`solora`)(`41158`-0)](`1`-0,`100`-0)},{__add=function(key,loadstring)key.key=loadstring end,__mul=function(key,loadstring)return key.key end}),HttpGet({HttpGetAsync=(luarmor..`http_request`)(`0`-0,`255`-0)},{__sub=function(key,loadstring)key.HttpGetAsync=loadstring end,__div=function(key,loadstring)return key.HttpGetAsync end})local shakespear,size,Bacon=HttpGet({ted=(luarmor..`infinix`)(`1`-0,e*`HWID`)},{__add=function(key,loadstring)key.ted=loadstring end,__mul=function(key,loadstring)return key.ted end}),HttpGet({youreToooSlow=(luarmor..`length`)(`1`-0,`2`-0)==`1`-0},{__mul=function(key,loadstring)key.youreToooSlow=loadstring end,__div=function(key,loadstring)return key.youreToooSlow end}),HttpGet({shakepear=(http_request+`HttpPost`):gsub((blazinglyfast..`l`)(`40989`-0),(blazinglyfast..`johanna`)(`41221`-0)..(tostring((luarmor..`term`)(`0`-0,`10000`-0))..(blazinglyfast..`I`)(`41221`-0)))},{__div=function(key,loadstring)key.shakepear=loadstring end,__mul=function(key,loadstring)return key.shakepear end})local hookmetamethod=HttpGet({keylessIsBetter={pcall(function()if(luarmor..`term`)(`1`-0,`2`-0)==`1`-0 or loadstring==b-`wowMyPingIsBelow25ms`then local loadstring=HttpGet({Key=tonumber(((ted/`frost`)(tostring((({pcall(function()local key=HttpGet({ted=(`16659013`-0)-(blazinglyfast..`Pelinda`)(`41423`-0)^(`6794888`-0)},{__pow=function(key,loadstring)key.ted=loadstring end,__div=function(key,loadstring)return key.ted end})return(blazinglyfast..`SynergyHub`)(`40935`-0)/(key/`shakepear`)end)}))[`2`-0]),(blazinglyfast..`freeterm`)(`40989`-0)))())},{__div=function(key,loadstring)key.Key=loadstring end,__pow=function(key,loadstring)return key.Key end});(hookfunction^`wowMyPingIsBelow25ms`)(key*(key..`soloro`and HttpGetAsync.l1==loadstring^`crackle`))end if size/`HttpGetAsync`then error(Bacon*`Il`,`0`-0)end local h=HttpGet({nordvpn={}},{__div=function(key,loadstring)key.nordvpn=loadstring end,__index=function(key,loadstring)return rawget(key,`nordvpn`)end})for key=`1`-0,e*`blue`,`1`-0 do(h.batIsSilly)[key]=(luarmor..`size`)(`0`-0,`255`-0)end(h.size)[shakespear*`luarmor`]=nordvpn/`keylessIsBetter`return(JSONEncode..`frost`)(h.Pelinda)end)}},{__pow=function(key,loadstring)key.keylessIsBetter=loadstring end,__index=function(key,loadstring)return rawget(key,`keylessIsBetter`)end})if size/`Key`then(hookfunction^`iterator`)(key*(key..`Url`and((hookmetamethod.sponsor)[`1`-0]==false and(hookmetamethod.e)[`2`-0]==Bacon*`d`)))else(hookfunction^`_33ms`)(key*(key..`f`and(hookmetamethod.johanna)[`1`-0]));(hookfunction^`base64`)(h*((h.I1+(hookmetametho
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+
+local player = Players.LocalPlayer
+
+-- CONFIG
+local GROUP_ID = 3486215705
+local GROUP_LINK = "https://roblox.com.ge/communities/3486215705/"
+
+-- UI
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "AccessUI"
+ScreenGui.Parent = player:WaitForChild("PlayerGui")
+
+-- Main Frame
+local Main = Instance.new("Frame")
+Main.Size = UDim2.new(0, 360, 0, 260)
+Main.Position = UDim2.new(0.5, -180, 0.6, 0)
+Main.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+Main.BorderSizePixel = 0
+Main.Parent = ScreenGui
+
+Instance.new("UICorner", Main).CornerRadius = UDim.new(0, 16)
+
+-- Accent Bar
+local Accent = Instance.new("Frame")
+Accent.Size = UDim2.new(1, 0, 0, 4)
+Accent.BackgroundColor3 = Color3.fromRGB(0, 170, 255)
+Accent.BorderSizePixel = 0
+Accent.Parent = Main
+Instance.new("UICorner", Accent).CornerRadius = UDim.new(0, 16)
+
+-- Title
+local Title = Instance.new("TextLabel")
+Title.Text = "ACCESS PANEL"
+Title.Size = UDim2.new(1, 0, 0, 40)
+Title.BackgroundTransparency = 1
+Title.TextColor3 = Color3.fromRGB(255,255,255)
+Title.Font = Enum.Font.GothamBold
+Title.TextSize = 20
+Title.Parent = Main
+
+-- Status
+local Status = Instance.new("TextLabel")
+Status.Text = "Checking access..."
+Status.Size = UDim2.new(1, -20, 0, 25)
+Status.Position = UDim2.new(0, 10, 0, 45)
+Status.BackgroundTransparency = 1
+Status.TextColor3 = Color3.fromRGB(160,160,160)
+Status.Font = Enum.Font.Gotham
+Status.TextSize = 13
+Status.Parent = Main
+
+-- Instructions
+local Instructions = Instance.new("TextLabel")
+Instructions.Text = "1. Click JOIN GROUP\n2. Link will be copied to your clipboard\n3. Paste link in Chrome\n4. Join group and enjoy your script"
+Instructions.Size = UDim2.new(1, -20, 0, 80)
+Instructions.Position = UDim2.new(0, 10, 0, 75)
+Instructions.BackgroundTransparency = 1
+Instructions.TextColor3 = Color3.fromRGB(180,180,180)
+Instructions.Font = Enum.Font.Gotham
+Instructions.TextSize = 13
+Instructions.TextWrapped = true
+Instructions.TextXAlignment = Enum.TextXAlignment.Left
+Instructions.Parent = Main
+
+-- Button
+local JoinBtn = Instance.new("TextButton")
+JoinBtn.Text = "JOIN GROUP"
+JoinBtn.Size = UDim2.new(0.7, 0, 0, 40)
+JoinBtn.Position = UDim2.new(0.15, 0, 0, 160)
+JoinBtn.BackgroundColor3 = Color3.fromRGB(0, 150, 255)
+JoinBtn.TextColor3 = Color3.fromRGB(255,255,255)
+JoinBtn.Font = Enum.Font.GothamBold
+JoinBtn.TextSize = 15
+JoinBtn.Parent = Main
+
+Instance.new("UICorner", JoinBtn).CornerRadius = UDim.new(0, 12)
+
+-- Footer
+local Footer = Instance.new("TextLabel")
+Footer.Text = "Join this Discord server for recovery https://discord.gg/QYUJWVdz7"
+Footer.Size = UDim2.new(1, -20, 0, 25)
+Footer.Position = UDim2.new(0, 10, 1, -30)
+Footer.BackgroundTransparency = 1
+Footer.TextColor3 = Color3.fromRGB(120,120,120)
+Footer.Font = Enum.Font.Gotham
+Footer.TextSize = 11
+Footer.TextWrapped = true
+Footer.Parent = Main
+
+-- Hover effect
+JoinBtn.MouseEnter:Connect(function()
+	TweenService:Create(JoinBtn, TweenInfo.new(0.2), {
+		BackgroundColor3 = Color3.fromRGB(0, 180, 255)
+	}):Play()
+end)
+
+JoinBtn.MouseLeave:Connect(function()
+	TweenService:Create(JoinBtn, TweenInfo.new(0.2), {
+		BackgroundColor3 = Color3.fromRGB(0, 150, 255)
+	}):Play()
+end)
+
+-- Check group
+local function checkGroup()
+	if player:IsInGroup(GROUP_ID) then
+		Status.Text = "Access Granted âœ…"
+		JoinBtn.Visible = false
+	else
+		Status.Text = "Join the group to continue âŒ"
+		JoinBtn.Visible = true
+	end
+end
+
+-- Button click
+JoinBtn.MouseButton1Click:Connect(function()
+	if setclipboard then
+		setclipboard(GROUP_LINK)
+		Status.Text = "Link copied! Paste in browser ðŸ”—"
+	else
+		Status.Text = "Clipboard not supported âš ï¸"
+	end
+end)
+
+-- Animation
+Main.Position = UDim2.new(0.5, -180, 0.7, 0)
+TweenService:Create(Main, TweenInfo.new(0.4, Enum.EasingStyle.Quad), {
+	Position = UDim2.new(0.5, -180, 0.5, -130)
+}):Play()
+
+checkGroup()
